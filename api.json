@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/mapinguari",
     "maintainers": [
       {
@@ -18,378 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "mapinguari",
     "name": "Mapinguari",
-    "aliases": [
-      {
-        "name": "Mapinguary",
-        "language": "Portuguese",
-        "region": "Brazilian Amazon"
-      },
-      {
-        "name": "Juma",
-        "language": "Indigenous",
-        "region": "Amazon Basin"
-      }
-    ],
+    "aliases": [],
     "category": "CRYPTID",
-    "subcategory": "Humanoid",
+    "subcategory": "| Description | Status |",
     "tags": [
-      "cryptid",
-      "humanoid",
-      "sloth-like",
-      "amazon",
-      "nocturnal",
-      "brazilian",
-      "indigenous-folklore",
-      "large-creature"
+      "folklore",
+      "mythology"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "Large sloth-like creature from Brazilian Amazon folklore, described as approximately 7 feet tall with red fur, one eye, a mouth in its belly, and backward-facing feet. A prominent cryptid in Amazonian indigenous traditions and modern cryptozoology.",
+      "summary": "The Mapinguari is a legendary cryptid from the Brazilian Amazon, described as a large, sloth-like creature standing approximately 7 feet tall.",
       "full": "The Mapinguari is a legendary cryptid from the Brazilian Amazon, described as a large, sloth-like creature standing approximately 7 feet tall. Physical characteristics include red fur covering its body, a single eye (cyclops-like), a second mouth located in its belly, backward-facing feet, and a terrible odor. The creature is said to emit a paralyzing roar, attack humans and hunters, and be primarily nocturnal. Indigenous belief in the Mapinguari is widespread across Amazon indigenous groups. Some cryptozoologists theorize it could be a surviving giant ground sloth (Megatherium), while descriptions remain consistent across numerous tribes despite lack of physical evidence. The creature reportedly has bulletproof hide and massive sloth-like claws. Protection methods include climbing trees (which it supposedly cannot do) and making loud noises."
     },
     "etymology": {
-      "origin": "Name derives from indigenous Amazonian languages, likely Tupi-Guarani origin.",
-      "meaning": "Meanings vary by region; often translated as 'the roaring animal' or 'the fetid beast'",
-      "first_use": "Pre-colonial indigenous oral traditions"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Humanoid",
-      "subtype": "Sloth-like",
-      "variant": "Brazilian Amazon"
+      "type": "| Description | Status |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "bigfoot",
-        "name": "Bigfoot",
-        "relationship": "similar",
-        "description": "Large bipedal cryptid hominid"
-      },
-      {
-        "id": "yeti",
-        "name": "Yeti",
-        "relationship": "similar",
-        "description": "Himalayan cryptid, similar large cryptid category"
-      },
-      {
-        "id": "curupira",
-        "name": "Curupira",
-        "relationship": "related",
-        "description": "Amazon forest guardian with backward feet"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 2.0,
-        "max": 2.2,
-        "unit": "meters",
-        "confidence": "medium"
-      },
-      "coloration": [
-        "red",
-        "reddish-brown"
-      ],
-      "features": [
-        {
-          "feature": "Single eye",
-          "description": "Cyclops-like, one eye in center of face",
-          "frequency": "common"
-        },
-        {
-          "feature": "Belly mouth",
-          "description": "Second mouth located in the belly or stomach area",
-          "frequency": "common"
-        },
-        {
-          "feature": "Red fur",
-          "description": "Thick red or reddish-brown fur covering body",
-          "frequency": "always"
-        },
-        {
-          "feature": "Backward feet",
-          "description": "Feet facing backward, similar to Curupira legend",
-          "frequency": "common"
-        },
-        {
-          "feature": "Terrible smell",
-          "description": "Extremely foul odor, one of its defining characteristics",
-          "frequency": "always"
-        },
-        {
-          "feature": "Large claws",
-          "description": "Massive sloth-like claws",
-          "frequency": "always"
-        },
-        {
-          "feature": "Bulletproof hide",
-          "description": "Some versions describe hide that cannot be penetrated by bullets",
-          "frequency": "occasional"
-        }
-      ],
-      "morphology": "Large bipedal creature with sloth-like features. Covered in thick red fur. Grotesque appearance with single eye and second mouth on belly. Powerful build with large claws."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Paralyzing roar",
-        "description": "Emits a roar that paralyzes victims with fear",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Bulletproof hide",
-        "description": "Reportedly impervious to bullets",
-        "frequency": "occasional",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Powerful attacks",
-        "description": "Attacks humans and hunters with great strength",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Terrible odor",
-        "description": "Produces extremely foul smell as defense or marker",
-        "frequency": "always",
-        "evidence_level": "reported"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "aggressive",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "deep Amazon rainforest",
-        "remote areas",
-        "dense jungle",
-        "river areas"
-      ],
-      "diet": "Unknown, presumed carnivorous based on attack reports",
-      "patterns": [
-        "Attacks humans and hunters",
-        "Primarily nocturnal activity",
-        "Found in remote forest areas",
-        "Cannot climb trees (reported weakness)",
-        "Frightened by loud noises"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Brazilian Amazon Basin, with reports across indigenous territories. Sightings concentrated in remote rainforest areas.",
-      "continents": ["South America"],
-      "countries": ["Brazil"],
-      "regions": [
-        "Amazon Basin",
-        "Amazonas State",
-        "Acre State",
-        "Pará State",
-        "Remote rainforest areas"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-colonial",
+        "date": "Unknown",
         "circa": true,
-        "source": "Indigenous oral traditions across Amazon indigenous groups"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "Pre-colonial to present",
-          "description": "Continuous indigenous tradition and modern cryptozoology interest"
-        }
-      ],
-      "seasonal_patterns": "Year-round reports, no clear seasonal variation"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "The Mapinguari is deeply rooted in Amazonian indigenous folklore, with consistent descriptions across multiple indigenous groups including various Tupi and other Amazon tribes. The creature may represent cultural memory of extinct giant ground sloths.",
-      "earliest_accounts": "Pre-colonial indigenous oral traditions dating back centuries.",
-      "folklore_connections": "Connected to Brazilian Amazon cryptid traditions. Some researchers link it to potential folk memory of Megatherium (extinct giant ground sloth) that lived in South America until approximately 8,000-10,000 years ago."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Pre-colonial",
-        "event": "Indigenous oral traditions established",
-        "significance": "Widespread belief across Amazon indigenous groups",
-        "source": "Oral tradition"
-      },
-      {
-        "date": "1900s",
-        "event": "Western documentation begins",
-        "significance": "Explorers and researchers document indigenous accounts",
-        "source": "Explorer accounts, anthropological studies"
-      },
-      {
-        "date": "1990s-present",
-        "event": "Cryptozoological interest increases",
-        "significance": "Investigation of giant ground sloth survival theory",
-        "source": "Cryptozoological research"
-      }
-    ],
-    "modern_era": "The Mapinguari remains an active target of cryptozoological investigation, with researchers exploring the possibility of surviving giant ground sloths. Indigenous communities maintain traditional beliefs. The creature has gained international attention through cryptozoology publications and media."
+    "timeline": []
   },
-
   "sightings": {
     "statistics": {
       "total_documented": 0,
       "verified": 0,
       "disputed": 0,
-      "debunked": 0,
-      "date_range": {
-        "earliest": "Pre-colonial",
-        "latest": "Present"
-      }
+      "debunked": 0
     },
     "notable": [],
-    "database_path": null
+    "database_path": "./sightings/"
   },
-
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": [
-      {
-        "id": "mapinguari-evidence-consistency",
-        "type": "testimonial consistency",
-        "name": "Cross-cultural consistent descriptions",
-        "description": "Remarkably consistent descriptions across geographically separated indigenous tribes",
-        "status": "notable",
-        "analysis": "Cultural consistency suggests either shared tradition or real phenomenon"
-      }
-    ]
+    "trace": []
   },
-
   "theories": {
-    "cryptozoological": [
-      {
-        "name": "Surviving Megatherium",
-        "description": "Mapinguari could be surviving population of giant ground sloths (Megatherium) that went extinct ~8,000-10,000 years ago",
-        "proponents": ["David Oren", "Glenn Shepard"],
-        "evidence_cited": ["Consistent sloth-like descriptions", "Bulletproof hide matches thick sloth skin", "Backward feet common in indigenous forest spirit lore", "Amazon's remoteness could hide relict population"]
-      },
-      {
-        "name": "Unknown Amazon species",
-        "description": "Undiscovered large mammal species in remote Amazon",
-        "proponents": ["Various cryptozoologists"],
-        "evidence_cited": ["New species regularly discovered in Amazon", "Vast unexplored areas remain"]
-      }
-    ],
-    "folkloric": [
-      {
-        "name": "Forest guardian spirit",
-        "description": "Purely folkloric entity representing dangers of deep forest",
-        "proponents": ["Cultural anthropologists"],
-        "evidence_cited": ["Supernatural features like belly mouth", "Similar to other forest guardian myths", "Serves as cultural warning system"]
-      },
-      {
-        "name": "Cultural memory",
-        "description": "Folk memory of extinct giant ground sloths passed through generations",
-        "proponents": ["Some anthropologists"],
-        "evidence_cited": ["Overlap between human habitation and sloth extinction timeline", "Accurate physical descriptions of sloth-like features"]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Misidentification",
-        "description": "Sightings are misidentifications of known animals like giant anteaters, tapirs, or bears",
-        "proponents": ["Skeptical researchers"],
-        "evidence_cited": ["No physical evidence", "Giant anteaters can stand upright", "Poor visibility in dense forest"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Widespread across Amazon indigenous groups",
-        "Tupi indigenous traditions",
-        "Various tribal oral histories"
-      ],
-      "stories": [
-        "Hunter encounters and escapes",
-        "Village protection rituals",
-        "Forest danger warnings"
-      ],
-      "beliefs": "Many indigenous communities consider the Mapinguari a real creature, not merely mythological. Used to teach forest safety and respect for nature's dangers."
-    },
-    "indigenous": {
-      "cultures": [
-        "Tupi peoples",
-        "Various Amazonian indigenous groups",
-        "Brazilian indigenous communities"
-      ],
-      "significance": "Important part of indigenous Amazon worldview regarding forest dangers and respect for nature. Represents the power and mystery of the deep forest.",
-      "sensitivity_note": "The Mapinguari is part of living indigenous traditions. Approach with respect for indigenous knowledge and cultural beliefs.",
-      "respect_guidelines": "Consult with indigenous communities before investigating in their territories. Recognize this as part of indigenous cultural heritage, not just cryptozoology curiosity."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Cryptozoology books and publications",
-        "Brazilian folklore collections",
-        "Academic anthropology papers"
-      ],
-      "film_tv": [
-        "Cryptozoology documentaries",
-        "Brazilian television programs"
-      ],
-      "other": [
-        "Ecotourism interest",
-        "Cryptozoology expedition targets"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "researchers": [
-      {
-        "name": "David Oren",
-        "affiliation": "Researcher",
-        "contribution": "Proposed giant ground sloth survival theory",
-        "period": "1990s-2000s"
-      },
-      {
-        "name": "Glenn Shepard",
-        "affiliation": "Anthropologist",
-        "contribution": "Documentation of indigenous accounts and cultural context",
-        "period": "1990s-present"
-      }
-    ],
+    "researchers": [],
     "organizations": [],
-    "ongoing_studies": "Continued documentation of indigenous accounts and occasional cryptozoological expeditions to remote Amazon regions."
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "oren-mapinguari",
-      "type": "article",
-      "title": "Mapinguari research and giant ground sloth theory",
-      "authors": ["David Oren"],
-      "publication": "Various",
-      "date": "1990s-2000s"
-    },
-    {
-      "id": "shepard-mapinguari",
-      "type": "article",
-      "title": "Anthropological documentation of Mapinguari traditions",
-      "authors": ["Glenn Shepard"],
-      "publication": "Academic journals",
-      "date": "1990s-present"
-    }
-  ]
+  "sources": []
 }
