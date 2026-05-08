@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/mapinguari",
     "maintainers": [
       {
@@ -16,72 +16,133 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "mapinguari",
     "name": "Mapinguari",
-    "aliases": [],
-    "category": "CRYPTID",
-    "subcategory": "| Description | Status |",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Kida harara", "language": "Karitiana", "meaning": "'laughing beast'" },
+      { "name": "Kida so'emo", "language": "Karitiana", "meaning": "'beast with a black face'" },
+      { "name": "Owojo / Owoj", "language": "Karitiana", "meaning": "'maternal grandfather'" },
+      { "name": "Segamai", "language": "Machiguenga", "region": "Peruvian Amazon" },
+      { "name": "Juma", "region": "Brazilian Amazon" }
     ],
-    "status": "documented",
+    "category": "CRYPTID",
+    "subcategory": "Amazonian sloth-like cryptid",
+    "tags": [
+      "cryptid",
+      "amazon",
+      "brazil",
+      "peru",
+      "indigenous-folklore",
+      "ground-sloth",
+      "south-america"
+    ],
+    "status": "active",
     "description": {
-      "summary": "The Mapinguari is a legendary cryptid from the Brazilian Amazon, described as a large, sloth-like creature standing approximately 7 feet tall.",
-      "full": "The Mapinguari is a legendary cryptid from the Brazilian Amazon, described as a large, sloth-like creature standing approximately 7 feet tall. Physical characteristics include red fur covering its body, a single eye (cyclops-like), a second mouth located in its belly, backward-facing feet, and a terrible odor. The creature is said to emit a paralyzing roar, attack humans and hunters, and be primarily nocturnal. Indigenous belief in the Mapinguari is widespread across Amazon indigenous groups. Some cryptozoologists theorize it could be a surviving giant ground sloth (Megatherium), while descriptions remain consistent across numerous tribes despite lack of physical evidence. The creature reportedly has bulletproof hide and massive sloth-like claws. Protection methods include climbing trees (which it supposedly cannot do) and making loud noises."
+      "summary": "A large, foul-smelling, hair-covered cryptid of the Brazilian and Peruvian Amazon, reported across multiple Indigenous traditions. Some cryptozoologists, notably ornithologist David Oren, have proposed that Mapinguari reports may reflect a surviving population of giant ground sloth.",
+      "full": "Mapinguari is a creature of Amazonian folklore reported widely across Indigenous and rural Brazilian and Peruvian populations. The name is generally derived from a Tupi-Guarani compound, often glossed as 'the thing with a twisted or backward-turned foot'. Descriptions vary by community but commonly include great size (around 2 m or more standing), thick reddish or dark hair, terrible odour, very loud roaring vocalisations, and resistance to weapons. Some traditions add a single 'cyclops' eye and a second mouth in the belly; others (notably among the Karitiana) describe a more straightforwardly bear- or sloth-like animal. From 1993 onward, the American ornithologist David C. Oren of the Goeldi Museum proposed that Mapinguari accounts could reflect surviving populations of giant ground sloth (Mylodontidae or Megatheriidae), arguing that ground-sloth osteoderms (dermal bony plates) would be consistent with reports of bullet-resistant hide. Oren's hypothesis has been treated sceptically by mainstream palaeontology, which holds that South American mainland ground sloths went extinct around 11,000–8,000 years before present, although Caribbean ground sloths persisted considerably later."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Generally derived from Tupi-Guarani; popular glosses connect it to a phrase meaning 'the thing with the bent or twisted foot', referring to backward-turned feet in the folkloric description.",
+      "meaning": "Approximately 'crooked-foot beast' / 'roaring beast'.",
+      "first_use": "Documented in 19th- and 20th-century Brazilian ethnographic and folkloric literature."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "| Description | Status |",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Mammalian / hominid",
+      "subtype": "Possible ground-sloth survival",
+      "variant": "South American (Amazonian)"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "ucumar", "name": "Ucumar", "relationship": "similar", "description": "Andean bear-like cryptid" },
+      { "id": "mono-grande", "name": "Mono Grande", "relationship": "similar", "description": "Large primate cryptid of the Amazon" },
+      { "id": "didi", "name": "Didi", "relationship": "similar", "description": "Guianan hairy hominid cryptid" },
+      { "id": "bigfoot", "name": "Bigfoot", "relationship": "similar", "description": "North American hairy hominid cryptid" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "height": { "min": 1.8, "max": 2.5, "unit": "meters", "confidence": "low" },
+      "coloration": ["red-brown", "dark brown", "black"],
+      "features": [
+        { "feature": "Thick body hair", "description": "Body covered in long, coarse hair; sometimes compared to that of a spider monkey", "frequency": "always" },
+        { "feature": "Powerful claws", "description": "Long curved claws on the forelimbs, often described as sloth-like", "frequency": "common" },
+        { "feature": "Foul odour", "description": "Reports consistently emphasise an extremely strong, repulsive smell", "frequency": "always" },
+        { "feature": "Loud roar", "description": "Witnesses describe a deafening vocalisation said to stun or paralyse hearers", "frequency": "common" },
+        { "feature": "Backward-turned feet", "description": "Some traditions describe feet pointing backward, said to confuse trackers", "frequency": "occasional" },
+        { "feature": "Single eye / mouth in belly", "description": "Some traditions describe a cyclops eye and/or a second mouth in the belly; not present in all accounts (e.g. Karitiana descriptions are more naturalistic)", "frequency": "occasional" }
+      ],
+      "morphology": "Heavy bipedal or semi-bipedal mammal with sloth- or bear-like body plan; reports vary between a more naturalistic ground-sloth-type animal and a more fantastic cyclops-with-belly-mouth figure."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Resistance to weapons", "description": "Said to be effectively bulletproof everywhere except a vulnerable spot at the navel — a motif Oren connects to the dermal osteoderms of ground sloths", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Stunning roar", "description": "Vocalisation said to disorient, stun, or terrify hearers", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Confusing trail", "description": "Backward-turned feet said to mislead trackers", "frequency": "occasional", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "diurnal",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": ["dense Amazonian rainforest", "remote forest interior", "river headwaters"],
+      "diet": "Generally described as omnivorous; folklore variously emphasises plant foods, hunters, or violators of taboos as targets",
+      "patterns": [
+        "Encountered in deep forest, far from settlements",
+        "Reported to attack hunters, especially those who break customary rules",
+        "Strong association with the smell of decay and forest stench"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Reported throughout the Amazon basin, particularly in the Brazilian states of Acre, Rondônia, Pará, and Amazonas, as well as in adjacent Peru and Bolivia. Especially strong in Karitiana, Machiguenga, and Mura territories.",
+      "continents": ["South America"],
+      "countries": ["Brazil", "Peru", "Bolivia"],
+      "regions": ["Amazon basin", "Acre", "Rondônia", "Pará", "Amazonas (Brazil)"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Karitiana territory, Rondônia",
+        "location": {
+          "description": "Karitiana Indigenous lands in the state of Rondônia, Brazil",
+          "country": "Brazil",
+          "region": "Rondônia"
+        },
+        "peak_period": "20th century to present",
+        "notes": "One of the principal Indigenous communities whose Mapinguari accounts informed David Oren's research."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Pre-contact",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Indigenous Amazonian oral traditions"
+      },
+      "peak_activity_periods": [
+        { "period": "1990s–2000s", "description": "David Oren's expeditions and publications bring Mapinguari into international cryptozoological literature." }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Indigenous Amazonian (Tupi-Guarani-derived, Karitiana, Machiguenga, Mura, and others) traditions of forest beings.",
+      "earliest_accounts": "Indigenous oral traditions of unknown depth; scholarly Brazilian folklore record from the 19th and 20th centuries.",
+      "folklore_connections": "Connects to a wider Amazonian set of forest-spirit and dangerous-being traditions, including curupira and juma."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1937-01-01", "event": "Brazilian folklorist Câmara Cascudo and others document Mapinguari accounts in the Brazilian folkloric literature", "significance": "Mapinguari enters the published Brazilian folklore canon", "source": "Brazilian folklore literature, early–mid 20th century" },
+      { "date": "1993-01-01", "event": "Ornithologist David C. Oren of the Museu Paraense Emílio Goeldi proposes that Mapinguari accounts may reflect a surviving giant ground sloth", "significance": "Brings Mapinguari into the international cryptozoological literature", "source": "Oren, D. C., publications on Mapinguari and ground sloth survival" },
+      { "date": "2007-01-01", "event": "New York Times feature on Oren's expeditions popularises the ground-sloth hypothesis internationally", "significance": "Mainstream English-language exposure", "source": "New York Times (2007) feature on Mapinguari" }
+    ],
+    "modern_era": "Mapinguari is one of the principal South American cryptids in modern cryptozoology, often invoked in discussions of late-Quaternary megafaunal survival. It is also actively maintained as a living folkloric tradition by Indigenous Amazonian peoples and by rural ribeirinho communities."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,35 +153,129 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "mapinguari-evidence-oren-interviews",
+        "type": "interview corpus",
+        "name": "Oren's Indigenous and ribeirinho interview corpus",
+        "date": "1990s–2000s",
+        "description": "Field interviews collected by David Oren with Karitiana, Machiguenga, and rural Amazonian witnesses describing Mapinguari encounters.",
+        "status": "disputed",
+        "analysis": "Oren reads the corpus as evidence of a surviving large mammal, possibly a ground sloth; mainstream zoologists treat it as folkloric.",
+        "source": "Oren, D. C., field notes and publications"
+      }
+    ]
   },
+
   "theories": {
     "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "scientific": [
+      {
+        "name": "Surviving giant ground sloth",
+        "description": "Mapinguari reports may reflect a small surviving population of mylodontid or megatheriid ground sloth in remote Amazonia. The bullet-resistant hide of folklore corresponds to the dermal osteoderms of known ground sloths, and the size and gait fit the family.",
+        "proponents": ["David C. Oren"],
+        "evidence_cited": ["Convergent Indigenous descriptions across language families", "Ground-sloth osteoderms and morphology", "Vast, sparsely surveyed Amazonian forest"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Folkloric forest-being",
+        "description": "Mapinguari is a long-standing forest-being figure in Amazonian Indigenous and rural cosmologies, encoding taboos around hunting and respect for the forest, and is best read as folklore rather than zoology.",
+        "proponents": ["Brazilian folklorists"],
+        "evidence_cited": ["Cyclops eye / belly-mouth motifs incompatible with any known mammal", "Strong moralising structure in the tales"]
+      },
+      {
+        "name": "Ground sloths are extinct",
+        "description": "South American mainland ground sloths went extinct around 11,000–8,000 years before present; Caribbean species persisted longer but in the Antilles, not Amazonia. There is no fossil or ecological evidence of Holocene survival on the South American mainland.",
+        "proponents": ["Mainstream palaeontologists"],
+        "evidence_cited": ["End-Pleistocene South American extinction record", "Absence of Holocene ground-sloth remains in Amazonia"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Indigenous Amazonian forest-being traditions (Karitiana, Machiguenga, Mura, etc.)",
+        "Brazilian rural ribeirinho folklore"
+      ],
+      "stories": [
+        "Encounters of hunters who broke taboos",
+        "Mapinguari pursuing rubber-tappers in the Acre / Rondônia forests"
+      ],
+      "beliefs": "Many Amazonian communities treat Mapinguari as a real and dangerous forest being, often connected to taboos around overhunting and forest destruction."
+    },
+    "indigenous": {
+      "cultures": ["Karitiana", "Machiguenga", "Mura", "Ribeirinho rural communities"],
+      "significance": "Mapinguari is a real and active part of Indigenous Amazonian cosmology and is not reducible to a cryptozoological category.",
+      "sensitivity_note": "Approach Indigenous Mapinguari accounts as primary cosmological knowledge, not 'data' for cryptozoology; cite Indigenous voices directly where possible.",
+      "respect_guidelines": "Distinguish Indigenous testimony from Oren's scientific interpretation; do not flatten distinct community traditions into a single 'monster'."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
+      "literature": [
+        "Luís da Câmara Cascudo, Geografia dos Mitos Brasileiros (1947) and other Brazilian folklore works",
+        "David Oren, articles and interviews on Mapinguari and ground-sloth survival"
+      ],
+      "film_tv": [
+        "MonsterQuest, 'Last Dinosaur' / Mapinguari episode (History Channel, 2009)"
+      ],
+      "games": [
+        "Mapinguari appears in Brazilian folklore-themed video games and tabletop RPGs"
+      ],
+      "music": [],
       "other": []
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "David C. Oren", "affiliation": "Museu Paraense Emílio Goeldi (ornithology)", "contribution": "Field research and publication advancing the ground-sloth hypothesis for Mapinguari", "period": "1990s–2010s" }
+    ],
+    "organizations": [
+      { "name": "Museu Paraense Emílio Goeldi", "url": "https://www.museu-goeldi.br", "focus": "Amazonian biodiversity, ethnobiology, and natural history" }
+    ],
+    "ongoing_studies": "Mapinguari is studied at the intersection of cryptozoology, ethnobiology, Brazilian folklore studies, and late-Quaternary palaeontology."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "wikipedia-mapinguari",
+      "type": "website",
+      "title": "Mapinguari",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mapinguari",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "oren-1993",
+      "type": "article",
+      "title": "Did ground sloths survive to recent times in the Amazon region?",
+      "authors": ["David C. Oren"],
+      "publication": "Goeldiana Zoologia",
+      "date": "1993"
+    },
+    {
+      "id": "nytimes-mapinguari-2007",
+      "type": "news",
+      "title": "A Giant Among the Trees, a Mythical Beast for Some Amazonians",
+      "publication": "The New York Times",
+      "date": "2007-07-08",
+      "url": "https://www.nytimes.com/2007/07/08/world/americas/08amazon.html",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "camara-cascudo-1947",
+      "type": "book",
+      "title": "Geografia dos Mitos Brasileiros",
+      "authors": ["Luís da Câmara Cascudo"],
+      "date": "1947"
+    }
+  ]
 }

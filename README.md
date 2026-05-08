@@ -1,336 +1,182 @@
 # Mapinguari
 
-> *"The forest holds ancient things that should not be disturbed."*
+> A large, foul-smelling, hair-covered cryptid of the Brazilian and Peruvian Amazon, reported across multiple Indigenous traditions. Some cryptozoologists, notably ornithologist David Oren, have proposed that Mapinguari reports may reflect a surviving population of giant ground sloth.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `mapinguari` |
 | **Category** | CRYPTID |
-| **Classification** | Humanoid / Sloth-like |
-| **First Recorded** | Pre-colonial (Indigenous traditions) |
-| **Primary Region** | Brazilian Amazon |
-| **Status** | Active cryptozoology target |
+| **Subcategory** | Amazonian sloth-like cryptid |
+| **First recorded** | 1937-01-01 |
+| **Primary range** | Reported throughout the Amazon basin, particularly in the Brazilian states of Acre, Rondônia, Pará, and Amazonas, as well as in adjacent Peru and Bolivia |
+| **Status** | active |
 
 ---
-
 ## Overview
 
-The Mapinguari is a legendary cryptid from the Brazilian Amazon, described as a large, sloth-like creature standing approximately 7 feet tall. Physical characteristics include red fur covering its body, a single eye (cyclops-like), a second mouth located in its belly, backward-facing feet, and a terrible odor.
-
-The creature is said to emit a paralyzing roar, attack humans and hunters, and be primarily nocturnal. Indigenous belief in the Mapinguari is widespread across Amazon indigenous groups. Some cryptozoologists theorize it could be a surviving giant ground sloth (Megatherium), while descriptions remain consistent across numerous tribes despite lack of physical evidence.
-
-The creature reportedly has bulletproof hide and massive sloth-like claws. Protection methods include climbing trees (which it supposedly cannot do) and making loud noises.
+Mapinguari is a creature of Amazonian folklore reported widely across Indigenous and rural Brazilian and Peruvian populations. The name is generally derived from a Tupi-Guarani compound, often glossed as 'the thing with a twisted or backward-turned foot'. Descriptions vary by community but commonly include great size (around 2 m or more standing), thick reddish or dark hair, terrible odour, very loud roaring vocalisations, and resistance to weapons. Some traditions add a single 'cyclops' eye and a second mouth in the belly; others (notably among the Karitiana) describe a more straightforwardly bear- or sloth-like animal. From 1993 onward, the American ornithologist David C. Oren of the Goeldi Museum proposed that Mapinguari accounts could reflect surviving populations of giant ground sloth (Mylodontidae or Megatheriidae), arguing that ground-sloth osteoderms (dermal bony plates) would be consistent with reports of bullet-resistant hide. Oren's hypothesis has been treated sceptically by mainstream palaeontology, which holds that South American mainland ground sloths went extinct around 11,000–8,000 years before present, although Caribbean ground sloths persisted considerably later.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Kida harara | Karitiana | 'laughing beast' |
+| Kida so'emo | Karitiana | 'beast with a black face' |
+| Owojo / Owoj | Karitiana | 'maternal grandfather' |
+| Segamai | Machiguenga / Peruvian Amazon |  |
+| Juma | Brazilian Amazon |  |
 
-### Primary Name
-- **Mapinguari** — From indigenous Amazonian languages (likely Tupi-Guarani origin), often translated as "the roaring animal" or "the fetid beast."
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Mapinguary | Portuguese | Alternative spelling |
-| Juma | Indigenous Amazon | Alternative name in some tribes |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Humanoid
-├── Subtype: Sloth-like
-└── Variant: Brazilian Amazon
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Bigfoot](/bigfoot) | Similar | Large bipedal cryptid hominid |
-| [Yeti](/yeti) | Similar | Himalayan cryptid |
-| [Curupira](/curupira) | Related | Amazon forest guardian with backward feet |
+- **Origin**: Generally derived from Tupi-Guarani; popular glosses connect it to a phrase meaning 'the thing with the bent or twisted foot', referring to backward-turned feet in the folkloric description.
+- **Meaning**: Approximately 'crooked-foot beast' / 'roaring beast'.
+- **First use**: Documented in 19th- and 20th-century Brazilian ethnographic and folkloric literature.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Ucumar](../ucumar/) — _similar_: Andean bear-like cryptid
+- [Mono Grande](../mono-grande/) — _similar_: Large primate cryptid of the Amazon
+- [Didi](../didi/) — _similar_: Guianan hairy hominid cryptid
+- [Bigfoot](../bigfoot/) — _similar_: North American hairy hominid cryptid
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 2.0 - 2.2 meters (~7 feet) | Medium |
-| **Coloration** | Red, reddish-brown | Medium |
-| **Build** | Large, powerful, sloth-like | Medium |
+- **Height**: 1.8–2.5 meters _(low confidence)_
+- **Coloration**: red-brown, dark brown, black
+- **Morphology**: Heavy bipedal or semi-bipedal mammal with sloth- or bear-like body plan; reports vary between a more naturalistic ground-sloth-type animal and a more fantastic cyclops-with-belly-mouth figure.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Single eye | Cyclops-like, one eye in center of face | Common |
-| Belly mouth | Second mouth located in the belly/stomach area | Common |
-| Red fur | Thick red or reddish-brown fur covering body | Always |
-| Backward feet | Feet facing backward, leaves confusing tracks | Common |
-| Terrible smell | Extremely foul odor, defining characteristic | Always |
-| Large claws | Massive sloth-like claws | Always |
-| Bulletproof hide | Hide that reportedly cannot be penetrated by bullets | Occasional |
+|---|---|---|
+| Thick body hair | Body covered in long, coarse hair; sometimes compared to that of a spider monkey | always |
+| Powerful claws | Long curved claws on the forelimbs, often described as sloth-like | common |
+| Foul odour | Reports consistently emphasise an extremely strong, repulsive smell | always |
+| Loud roar | Witnesses describe a deafening vocalisation said to stun or paralyse hearers | common |
+| Backward-turned feet | Some traditions describe feet pointing backward, said to confuse trackers | occasional |
+| Single eye / mouth in belly | Some traditions describe a cyclops eye and/or a second mouth in the belly; not present in all accounts (e.g. Karitiana descriptions are more naturalistic) | occasional |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Paralyzing roar | Emits roar that paralyzes victims with fear | Reported |
-| Bulletproof hide | Impervious to bullets | Reported |
-| Powerful attacks | Attacks with great strength | Reported |
-| Terrible odor | Extremely foul smell as defense | Reported |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Resistance to weapons | Said to be effectively bulletproof everywhere except a vulnerable spot at the navel — a motif Oren connects to the dermal osteoderms of ground sloths | common | folklore |
+| Stunning roar | Vocalisation said to disorient, stun, or terrify hearers | common | folklore |
+| Confusing trail | Backward-turned feet said to mislead trackers | occasional | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Nocturnal
-- **Disposition**: Aggressive
-- **Social Structure**: Solitary
-- **Habitat Preference**: Deep Amazon rainforest, remote areas
-- **Diet**: Unknown, presumed carnivorous
-
-**Key Behaviors**:
-- Attacks humans and hunters
-- Primarily nocturnal activity
-- Found in remote forest areas
-- Cannot climb trees (reported weakness)
-- Frightened by loud noises
+- **Activity**: diurnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: dense Amazonian rainforest, remote forest interior, river headwaters
+- **Diet**: Generally described as omnivorous; folklore variously emphasises plant foods, hunters, or violators of taboos as targets
 
 ---
+## Distribution
 
-## Geographic Distribution
+Reported throughout the Amazon basin, particularly in the Brazilian states of Acre, Rondônia, Pará, and Amazonas, as well as in adjacent Peru and Bolivia. Especially strong in Karitiana, Machiguenga, and Mura territories.
 
-### Primary Range
+### Hotspots
 
-Brazilian Amazon Basin, with reports across indigenous territories. Sightings concentrated in remote rainforest areas of Amazonas, Acre, and Pará states.
-
-### Distribution Notes
-
-- Highest concentration: Deep Amazon rainforest
-- Remote areas far from human habitation
-- Consistent reports across widely separated indigenous groups
-- No confirmed physical evidence or specimens
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Karitiana territory, Rondônia | Rondônia, Brazil |  | 20th century to present |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-The Mapinguari is deeply rooted in Amazonian indigenous folklore, with consistent descriptions across multiple indigenous groups. The creature may represent cultural memory of extinct giant ground sloths (Megatherium).
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-colonial | Indigenous oral traditions | Widespread belief across Amazon groups |
-| 1900s | Western documentation begins | Explorers document indigenous accounts |
-| 1990s-present | Cryptozoological interest | Investigation of giant ground sloth survival theory |
-
-### Modern Era
-
-The Mapinguari remains an active target of cryptozoological investigation, with researchers exploring the possibility of surviving giant ground sloths. Indigenous communities maintain traditional beliefs. The creature has gained international attention through cryptozoology publications and media.
-
----
+|---|---|---|
+| 1937-01-01 | Brazilian folklorist Câmara Cascudo and others document Mapinguari accounts in the Brazilian folkloric literature | Mapinguari enters the published Brazilian folklore canon |
+| 1993-01-01 | Ornithologist David C. Oren of the Museu Paraense Emílio Goeldi proposes that Mapinguari accounts may reflect a surviving giant ground sloth | Brings Mapinguari into the international cryptozoological literature |
+| 2007-01-01 | New York Times feature on Oren's expeditions popularises the ground-sloth hypothesis internationally | Mainstream English-language exposure |
 
 ## Evidence
 
-### Testimonial Evidence
+### Documentary
 
-| Type | Description | Status |
-|------|-------------|--------|
-| Cross-cultural consistency | Remarkably consistent descriptions across separated tribes | Notable |
-| Indigenous accounts | Widespread traditional knowledge | Significant |
-| No physical evidence | No bones, bodies, or conclusive photos | Absence notable |
-
-### Analysis
-
-The most compelling aspect of Mapinguari evidence is the consistency of descriptions across geographically separated indigenous groups who had little contact. This suggests either:
-- Shared cultural tradition
-- Possible basis in real animal (extinct or extant)
-- Cultural memory of extinct species
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Oren's Indigenous and ribeirinho interview corpus | 1990s–2000s | Field interviews collected by David Oren with Karitiana, Machiguenga, and rural Amazonian witnesses describing Mapinguari encounters. | disputed |
 
 ---
-
 ## Theories & Explanations
 
-### Cryptozoological Theories
+### Scientific
 
-1. **Surviving Megatherium (Giant Ground Sloth)**
-   Most prominent theory suggests Mapinguari could be surviving population of *Megatherium* (extinct ~8,000-10,000 years ago). Evidence cited:
-   - Sloth-like physical descriptions
-   - Bulletproof hide matches thick sloth skin
-   - Amazon's remoteness could hide relict population
-   - Timing overlaps with human habitation
+**Surviving giant ground sloth** _(David C. Oren)_
 
-2. **Unknown Amazon Species**
-   Undiscovered large mammal species. Amazon regularly yields new species discoveries, and vast unexplored areas remain.
+Mapinguari reports may reflect a small surviving population of mylodontid or megatheriid ground sloth in remote Amazonia. The bullet-resistant hide of folklore corresponds to the dermal osteoderms of known ground sloths, and the size and gait fit the family.
 
-### Folkloric Explanations
+### Skeptical
 
-1. **Forest Guardian Spirit**
-   Purely folkloric entity representing dangers of deep forest. Supernatural features (belly mouth, single eye) suggest mythological rather than biological origin.
+**Folkloric forest-being** _(Brazilian folklorists)_
 
-2. **Cultural Memory**
-   Folk memory of extinct giant ground sloths passed through generations over thousands of years.
+Mapinguari is a long-standing forest-being figure in Amazonian Indigenous and rural cosmologies, encoding taboos around hunting and respect for the forest, and is best read as folklore rather than zoology.
 
-### Skeptical Explanations
+**Ground sloths are extinct** _(Mainstream palaeontologists)_
 
-**Misidentification**
-Sightings are misidentifications of known animals:
-- Giant anteaters (can stand upright)
-- Tapirs
-- South American spectacled bears
-- Poor visibility in dense forest enhances misidentification
+South American mainland ground sloths went extinct around 11,000–8,000 years before present; Caribbean species persisted longer but in the Antilles, not Amazonia. There is no fossil or ecological evidence of Holocene survival on the South American mainland.
 
----
 
-## Protection & Encounter Guidelines
+## Indigenous Perspectives
 
-### If You Encounter Mapinguari
+> ⚠️ **Approach Indigenous Mapinguari accounts as primary cosmological knowledge, not 'data' for cryptozoology; cite Indigenous voices directly where possible.**
 
-According to indigenous tradition:
+**Cultures**: Karitiana, Machiguenga, Mura, Ribeirinho rural communities
 
-1. **Climb a tree** — The creature reportedly cannot climb
-2. **Make loud noises** — Loud sounds may frighten it away
-3. **Do not run on ground** — It is said to be very fast
-4. **Avoid deep forest alone** — Travel in groups
+Mapinguari is a real and active part of Indigenous Amazonian cosmology and is not reducible to a cryptozoological category.
 
-### Weapons Ineffective
+_Guidelines: Distinguish Indigenous testimony from Oren's scientific interpretation; do not flatten distinct community traditions into a single 'monster'._
 
-Traditional accounts claim:
-- Bullets cannot penetrate its hide
-- Physical weapons are ineffective
-- Only escape strategies work
+## Popular Culture
+
+**Literature**: Luís da Câmara Cascudo, Geografia dos Mitos Brasileiros (1947) and other Brazilian folklore works; David Oren, articles and interviews on Mapinguari and ground-sloth survival
+
+**Film / TV**: MonsterQuest, 'Last Dinosaur' / Mapinguari episode (History Channel, 2009)
+
+**Games**: Mapinguari appears in Brazilian folklore-themed video games and tabletop RPGs
 
 ---
+## Research
 
-## Cultural Significance
+### Researchers
 
-### Indigenous Perspectives
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| David C. Oren | Museu Paraense Emílio Goeldi (ornithology) | Field research and publication advancing the ground-sloth hypothesis for Mapinguari | 1990s–2010s |
 
-> ⚠️ **Cultural Sensitivity Note**: The Mapinguari is part of living indigenous traditions. Approach with respect for indigenous knowledge and cultural beliefs. Consult with communities before investigating in their territories.
+### Organizations
 
-**Cultural Significance**:
-- Important part of indigenous Amazon worldview
-- Teaches respect for forest dangers
-- Represents power and mystery of deep forest
-- Used to enforce safety practices
+- [Museu Paraense Emílio Goeldi](https://www.museu-goeldi.br) — Amazonian biodiversity, ethnobiology, and natural history
 
-**Indigenous Groups**:
-- Tupi peoples
-- Various Amazonian indigenous groups
-- Multiple tribes with consistent traditions
-
-### Modern Cryptozoology
-
-The Mapinguari is a prime target for cryptozoological research due to:
-- Consistent indigenous descriptions
-- Plausible biological explanation (surviving ground sloth)
-- Remote habitat suitable for undiscovered species
-- Scientific interest in megafauna survival
+Mapinguari is studied at the intersection of cryptozoology, ethnobiology, Brazilian folklore studies, and late-Quaternary palaeontology.
 
 ---
+## Sources
 
-## Research & Investigation
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Notable Researchers
-
-| Name | Contribution |
-|------|--------------|
-| David Oren | Proposed giant ground sloth survival theory (1990s-2000s) |
-| Glenn Shepard | Anthropological documentation of indigenous accounts |
-
-### Ongoing Studies
-
-- Documentation of indigenous accounts
-- Occasional cryptozoological expeditions to remote Amazon
-- Analysis of giant ground sloth extinction timeline
-- Environmental DNA (eDNA) sampling in potential habitat areas
-
----
 
 ## How to Report a Sighting
 
-If you've encountered evidence of Mapinguari:
-
-1. **GitHub Issue**: [Submit Report](../../issues/new?template=sighting_report.yml)
-2. **Required Information**:
-   - Date, time, and exact location
-   - Detailed description of encounter
-   - Any physical evidence (photos, tracks, etc.)
-   - Indigenous community consultation (if applicable)
-
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for submission requirements.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const mapinguari = await wyrd.getPhenomenon('mapinguari');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/mapinguari/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Oren, D. (1990s-2000s). Mapinguari research and giant ground sloth theory
-- Shepard, G. (1990s-present). Anthropological documentation
-- Indigenous oral traditions across Amazon
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Sighting](../../issues/new?template=sighting_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
